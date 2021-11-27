@@ -71,4 +71,4 @@ svos [
              ]
 ```
 # 讲在最后
-参考了https://github.com/liuhuanyong/EventTriplesExtraction，主要是将LTP3升级到了LTP4，并增加了一些相关的注释。
+参考了https://github.com/liuhuanyong/EventTriplesExtraction ，主要是将LTP3升级到了LTP4，并增加了一些相关的注释。
