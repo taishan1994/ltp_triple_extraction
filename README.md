@@ -1,6 +1,6 @@
 # 基于哈工大LTP4的三元组抽取
 使用哈工大LTP4：<br>
-1、安装：pip install ltp<br>
+1、安装：pip install ltp==4.1.5.post2<br>
 2、模型下载地址：<br>
 ```
 model_map = {
